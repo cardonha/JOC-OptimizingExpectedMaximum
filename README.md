@@ -15,7 +15,10 @@ dataDFF contains the problem instances reported in Section 7
 
 ## Code
 OrderStatIJOC.zip contains all the source code and input data for the main cutting-plane algorithm as well as the simOpt benchmark
+
 OrderStatDFF.zip contains all the source code for the cutting-plane algorithm and the heuristic used for real DFF instances
+
 OrderStatScheduling.zip contains all the source code for the cutting-plane algorithm and heuristic used for scheduling problems
+
 simulationsBinPacking.zip contains the simulated vectors used for the simOpt benchmark
 
